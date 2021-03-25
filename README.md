@@ -1,2 +1,2 @@
-# Rank-DC
+# Rank-PIC
 Partly interval-censored rank regressions 
